@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3>Overview Tugas Github Workflow</h3>
-
+<img src="https://user-images.githubusercontent.com/74761484/170733884-6f57c270-3d8f-417d-91ad-e4d821420807.png" width="450" align='center'>
 
 <h3> 👨🏻•💻 Tentang saya </h3>
 
