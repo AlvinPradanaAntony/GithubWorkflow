@@ -13,7 +13,7 @@
 
 - 🎓 &nbsp; Mahasiswa Politeknik Negeri jember.
 
-- 🔧 &nbsp; Jurusan Teknik Informasi.
+- 🔧 &nbsp; Jurusan Teknologi Informasi.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
